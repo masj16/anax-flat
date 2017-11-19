@@ -10,4 +10,6 @@ Källkoden finns tillgänglig på GitHub i [canax/anax-flat](https://github.com/
 
 [Repot](https://github.com/masj16/anax-flat) till min sida på GitHub.
 
+[Repot](https://github.com/masj16/anax-flat-theme) till sidans tema på GitHub.
+
 ![Under uppbyggnad](img/maintenance-new.png)

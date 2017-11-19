@@ -19,7 +19,8 @@ Hej!
 Jag heter Mathilda. Är en 38-årig gift tvåbarnsmor, boende i utkanten av Linköping
 och jag gillar musik och sport.
 
-<img src="img/presentation.jpg" style="float: left; width: 250px; margin: 5px; overflow: auto;">
+<img src="img/presentation.jpg" style="float: left; width: 250px; margin: 5px 5px 15px; 
+overflow: auto;">
 
 Jag är utbildad företagsekonom men har aldrig jobbat med ekonomi utan har istället
 mest haft admininstrativa arbeten inom andra områden. Jag började känna att det
